@@ -18,7 +18,7 @@ import com.techfinally.example.repository.EmployeeRepository;
 
 /**
  *
- * @author PALT190
+ * @author Tech Finally
  */
 @RestController
 @RequestMapping("/api/v1/employees")

@@ -5,7 +5,7 @@ import javax.persistence.*;
 
 /**
  *
- * @author PALT190
+ * @author Tech Finally
  */
 @Entity(name = "employee")
 public class Employee implements Serializable {

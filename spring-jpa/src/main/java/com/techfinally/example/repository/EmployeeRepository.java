@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author PALT190
+ * @author Tech Finally
  */
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, String> {
